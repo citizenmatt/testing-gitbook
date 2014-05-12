@@ -12,7 +12,7 @@ module.exports = function (grunt) {
                 input: "./",
                 title: "testing-gitbook",
                 description: "test-gitbook",
-                github: "testing-gitbook"
+                github: "citizenmatt/testing-gitbook"
             }
         },
         'gh-pages': {
